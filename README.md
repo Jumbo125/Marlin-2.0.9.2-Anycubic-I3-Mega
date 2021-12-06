@@ -35,3 +35,6 @@
  
  The firmware is in the directory source code/pio/build/mega2650/*.hex
  
+ for e.g. my bed:
+ <img src="https://github.com/Jumbo125/Marlin-2.0.9.2-Anycubic-I3-Mega/blob/main/mbl_view.JPG" alt="my_bed">
+ 
