@@ -31,6 +31,9 @@
  3.1 Disable show_lcd_ menu after reheat noozle
  3.2 Show Continue button after reheat noozle
  
+ #### 4. Thermal Runaway
+ 4.1 Set Thermal Runaway higher, because my printer turned off, if i printer for a longer time or a second object.
+ 
  So. i hope you have fun
  
  The firmware is in the directory source code/pio/build/mega2650/*.hex
