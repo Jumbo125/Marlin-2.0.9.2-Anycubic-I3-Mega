@@ -23,9 +23,6 @@
 
 #define CONFIG_EXAMPLES_DIR "AnyCubic/i3 Mega"
 
-// Enable Anycubic TFT
-//#define ANYCUBIC_TFT_MODEL
-//#define ANYCUBIC_FILAMENT_RUNOUT_SENSOR
 //#define ANYCUBIC_TFT_DEBUG
 //#define I3MEGA_HAS_BLTOUCH
 //#define I3MEGA_HAS_TMC2208
