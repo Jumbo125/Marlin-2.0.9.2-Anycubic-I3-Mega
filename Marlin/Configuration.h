@@ -23,7 +23,6 @@
 
 #define CONFIG_EXAMPLES_DIR "AnyCubic/i3 Mega"
 
-//#define ANYCUBIC_TFT_DEBUG
 //#define I3MEGA_HAS_BLTOUCH
 //#define I3MEGA_HAS_TMC2208
 
